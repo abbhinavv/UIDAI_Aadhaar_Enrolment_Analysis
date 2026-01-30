@@ -52,5 +52,3 @@ The project emphasizes robust data preprocessing, careful time-series handling, 
 ## Author
 Abhinav Mishra
 
-## Project Structure
-
