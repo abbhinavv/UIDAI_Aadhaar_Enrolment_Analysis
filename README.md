@@ -3,6 +3,13 @@
 This project analyzes Aadhaar enrolment data provided by the Unique Identification Authority of India (UIDAI) to uncover demographic patterns, temporal trends, and operational anomalies. The goal is to translate large-scale enrolment data into explainable, decision-oriented insights rather than black-box predictions.
 
 ---
+## Sample Visual Insights
+
+### State-wise Enrolment Growth
+<img src="images/state_wise_growth.PNG" width="700">
+
+### Monthly National Enrolment Trend
+<img src="images/monthly_trend_national.PNG" width="700">
 
 ## Project Overview
 
